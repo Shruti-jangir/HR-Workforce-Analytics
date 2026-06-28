@@ -208,8 +208,7 @@ Open `HR_Workforce_Analytics.xlsx` in Microsoft Excel or LibreOffice Calc.
 
 **Shruti Jangir**  
 B.Tech CSE (Data Science) — CMR University, Bengaluru | CGPA 8.95  
-[Portfolio](https://shruti-jangir.netlify.app) · shrutijangir46@gmail.com
+shrutijangir46@gmail.com
 
 ---
 
-*Dataset is synthetic and generated for portfolio/learning purposes only.*
