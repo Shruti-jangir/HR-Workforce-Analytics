@@ -8,7 +8,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-purple?logo=pandas&logoColor=white)
 ## Dashboard Preview
-![HR Workforce Analytics Dashboard](assets/dashboard_preview.png)
+![HR Workforce Analytics Dashboard](assets/HR_workforce_analytics_dashboard_Preview.png)
 ---
 
 ## Project Overview
