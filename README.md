@@ -88,7 +88,7 @@ Synthetic dataset generated with `Faker` and `NumPy` (realistic HR distributions
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hr-workforce-analytics.git
+git clone https://github.com/Shruti-jangir/hr-workforce-analytics.git
 cd hr-workforce-analytics
 pip install -r requirements.txt
 ```
