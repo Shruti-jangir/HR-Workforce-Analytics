@@ -1,5 +1,5 @@
 """
-01_generate_dataset.py
+hr_dataset.py
 Generates synthetic HR workforce dataset of 1,240 employees.
 Run: python scripts/01_generate_dataset.py
 Output: data/raw/hr_employees.csv
