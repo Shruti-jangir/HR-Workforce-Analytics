@@ -41,6 +41,9 @@ hr_workforce_analytics/
 │   ├── 01_schema.sql                   ← Database schema (PostgreSQL / SQLite compatible)
 │   └── 02_analytical_queries.sql       ← 14 analytical SQL queries
 │
+├── reports/
+|   └── HR_Workforce_Analytics.pbix
+|
 ├── assets/
 │   ├── 01_workforce_composition.png
 │   ├── 02_attrition_analysis.png
@@ -90,25 +93,19 @@ cd hr-workforce-analytics
 pip install -r requirements.txt
 ```
 
-### 2. Generate raw dataset
-
-```bash
-python scripts/01_generate_dataset.py
-```
-
-### 3. Clean & engineer features
+### 2. Clean & engineer features
 
 ```bash
 python scripts/02_data_cleaning.py
 ```
 
-### 4. Open the EDA notebook
+### 3. Open the EDA notebook
 
 ```bash
 jupyter notebook notebooks/hr_eda_analysis.ipynb
 ```
 
-### 5. Run SQL queries
+### 4. Run SQL queries
 
 ```bash
 # SQLite (built-in, no setup needed)
@@ -121,7 +118,7 @@ print(pd.read_sql(open('sql/02_analytical_queries.sql').read().split(';')[1], co
 "
 ```
 
-### 6. Open Excel Dashboard
+### 5. Open Excel Dashboard
 
 Open `HR_Workforce_Analytics.xlsx` in Microsoft Excel or LibreOffice Calc.
 
