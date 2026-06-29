@@ -34,10 +34,6 @@ hr_workforce_analytics/
 │   └── processed/
 │       └── hr_cleaned.csv              ← Cleaned + 10 engineered features (31 cols)
 │
-├── scripts/
-│   ├── 01_generate_dataset.py          ← Synthetic data generation (Faker + NumPy)
-│   └── 02_data_cleaning.py             ← ETL: cleaning, transformation, feature engineering
-│
 ├── notebooks/
 │   └── hr_eda_analysis.ipynb           ← 10-section EDA with executed outputs & 6 charts
 │
